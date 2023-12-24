@@ -1,0 +1,5 @@
+PASSGEN
+
+PASSGEN  adalah sebuah program python sederhana untuk membuat kata sandi acak menggunakan baris perintah
+
+Penggunaan : python3 passgen.py --bantuan
