@@ -2,4 +2,6 @@ PASSGEN
 
 PASSGEN  adalah sebuah program python sederhana untuk membuat kata sandi acak menggunakan baris perintah
 
+Instalasi : apt-get update && apt-get upgrade && apt-get install python3 && apt-get install git && git clone https://github.com/rofidoang03/PASSGEN.git && cd PASSGEN && python3 passgen.py --bantuan 
+
 Penggunaan : python3 passgen.py --bantuan
