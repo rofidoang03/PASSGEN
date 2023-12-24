@@ -7,3 +7,9 @@ PASSGEN  adalah sebuah program python sederhana untuk membuat kata sandi acak me
 - `--huruf-kecil` : Gunakan huruf kecil.
 - `--simbol` : Gunakan simbol.
 - `--angka` : Gunakan angka.
+
+## Sistem operasi yang didukung
+
+| Windows | Linux | Android | Mac |
+|:--:|:--:|:--:|:--:|
+| :white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: |
